@@ -1,0 +1,29 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+  }
+  
+  .login{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(./imagen/bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
+  .contenido{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(./imagen/imagen.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
